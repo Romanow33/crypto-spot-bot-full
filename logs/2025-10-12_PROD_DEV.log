@@ -1,0 +1,37 @@
+[2025-10-12 00:21:36] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:21:36] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: none
+[2025-10-12 00:21:36] [ERROR] [crypto_bot] [ERROR] Context=runner_fatal | Message=Error crítico: print_balances_periodic() got an unexpected keyword argument 'simulator'
+[2025-10-12 00:22:38] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:22:38] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: none
+[2025-10-12 00:22:39] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo PROD | Enviroment: dev | Dry: none
+[2025-10-12 00:22:41] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:22:41] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110937.32 | EMA9=110559.58 | EMA21=110373.77 | RSI=61.27
+[2025-10-12 00:22:52] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=variable | Price=110937.32 | USDT=462.74 | Status=EXECUTED
+[2025-10-12 00:23:41] [INFO] [crypto_bot] [BALANCE] USDT=45802.04 | BTC=0.702850 | Source=periodic_monitor
+[2025-10-12 00:23:53] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=111057.98 | EMA9=110583.72 | EMA21=110384.74 | RSI=62.85
+[2025-10-12 00:24:05] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=variable | Price=111057.98 | USDT=458.02 | Status=EXECUTED
+[2025-10-12 00:24:42] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:24:55] [INFO] [crypto_bot] [RUNNER_SHUTDOWN] Bot detenido por usuario (Ctrl+C)
+[2025-10-12 00:25:03] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:25:03] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: none
+[2025-10-12 00:25:04] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo PROD | Enviroment: dev | Dry: none
+[2025-10-12 00:25:06] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:26:07] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:32:15] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:33:15] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:34:15] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:35:16] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:36:16] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:37:16] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:38:17] [INFO] [crypto_bot] [BALANCE] USDT=45335.51 | BTC=0.707050 | Source=periodic_monitor
+[2025-10-12 00:38:30] [INFO] [crypto_bot] [RUNNER_SHUTDOWN] Bot detenido por usuario (Ctrl+C)
+[2025-10-12 00:38:53] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:38:53] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: none
+[2025-10-12 00:38:53] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo PROD | Enviroment: dev | Dry: none
+[2025-10-12 00:38:54] [ERROR] [crypto_bot] [ERROR] Context=runner_fatal | Message=Error crítico: The number of features in data (3) is not the same as it was in training data (14).
+You can set ``predict_disable_shape_check=true`` to discard this error, but please be aware what you are doing.
+[2025-10-12 01:15:39] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 01:15:39] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: none
+[2025-10-12 01:15:40] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo PROD | Enviroment: dev | Dry: none
+[2025-10-12 01:15:41] [ERROR] [crypto_bot] [ERROR] Context=runner_fatal | Message=Error crítico: The number of features in data (3) is not the same as it was in training data (14).
+You can set ``predict_disable_shape_check=true`` to discard this error, but please be aware what you are doing.

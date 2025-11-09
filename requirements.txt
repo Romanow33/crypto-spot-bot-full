@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+lightgbm
+scikit-learn
+aiohttp
+httpx
+rich
+loguru
+sqlalchemy
+pytest
+binance-connector

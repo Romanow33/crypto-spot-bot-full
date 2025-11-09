@@ -1,0 +1,36 @@
+[2025-10-12 00:10:18] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:10:18] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: sim
+[2025-10-12 00:10:19] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo TEST | Enviroment: dev | Dry: sim
+[2025-10-12 00:10:20] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=111121.34 | EMA9=110506.82 | EMA21=110323.82 | RSI=68.12
+[2025-10-12 00:10:20] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.99377203334661e-05 | Price=111121.34 | USDT=10.00 | Status=SIMULATED
+[2025-10-12 00:10:21] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:11:21] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110797.35 | EMA9=110442.02 | EMA21=110294.36 | RSI=60.12
+[2025-10-12 00:11:22] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:11:22] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.929870615136553e-05 | Price=110797.35 | USDT=9.90 | Status=SIMULATED
+[2025-10-12 00:12:23] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110829.55 | EMA9=110448.46 | EMA21=110297.29 | RSI=60.83
+[2025-10-12 00:12:23] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:12:23] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.83800340252216e-05 | Price=110829.55 | USDT=9.80 | Status=SIMULATED
+[2025-10-12 00:13:24] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110799.62 | EMA9=110442.47 | EMA21=110294.57 | RSI=60.17
+[2025-10-12 00:13:24] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:13:24] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.75198688046042e-05 | Price=110799.62 | USDT=9.70 | Status=SIMULATED
+[2025-10-12 00:14:25] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110701.14 | EMA9=110422.78 | EMA21=110285.62 | RSI=58.09
+[2025-10-12 00:14:25] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:14:25] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.672174942317669e-05 | Price=110701.14 | USDT=9.61 | Status=SIMULATED
+[2025-10-12 00:15:26] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110681.45 | EMA9=110475.66 | EMA21=110322.19 | RSI=57.65
+[2025-10-12 00:15:26] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:15:26] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.58698052718012e-05 | Price=110681.45 | USDT=9.51 | Status=SIMULATED
+[2025-10-12 00:16:27] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110621.44 | EMA9=110463.66 | EMA21=110316.74 | RSI=56.39
+[2025-10-12 00:16:27] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:16:27] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.505722410695064e-05 | Price=110621.44 | USDT=9.41 | Status=SIMULATED
+[2025-10-12 00:17:28] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110580.22 | EMA9=110455.41 | EMA21=110312.99 | RSI=55.55
+[2025-10-12 00:17:28] [INFO] [crypto_bot] [BALANCE] USDT=46273.58 | BTC=0.698600 | Source=periodic_monitor
+[2025-10-12 00:17:28] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=8.423804082667279e-05 | Price=110580.22 | USDT=9.32 | Status=SIMULATED
+[2025-10-12 00:17:46] [INFO] [crypto_bot] [RUNNER_SHUTDOWN] Bot detenido por usuario (Ctrl+C)
+[2025-10-12 00:17:56] [INFO] [crypto_bot] [RUNNER_STARTUP] === INICIO DE BOT ===
+[2025-10-12 00:17:56] [INFO] [crypto_bot] [RUNNER_STARTUP] Modo: dev | Dry-run: sim
+[2025-10-12 00:17:57] [INFO] [crypto_bot] [STARTUP] Bot iniciado en modo TEST | Enviroment: dev | Dry: sim
+[2025-10-12 00:17:58] [INFO] [crypto_bot] [SIGNAL] Type=BUY | Price=110625.95 | EMA9=110464.56 | EMA21=110317.15 | RSI=56.48
+[2025-10-12 00:17:58] [INFO] [crypto_bot] [BALANCE] USDT=1000.00 | BTC=0.000000 | Source=simulator_monitor
+[2025-10-12 00:17:58] [INFO] [crypto_bot] [TRADE] Type=BUY | Symbol=BTCUSDT | Qty=9.034046713271163e-05 | Price=110625.95 | USDT=10.00 | Status=SIMULATED
+[2025-10-12 00:18:58] [INFO] [crypto_bot] [BALANCE] USDT=990.00 | BTC=0.000090 | Source=simulator_monitor
+[2025-10-12 00:21:22] [INFO] [crypto_bot] [RUNNER_SHUTDOWN] Bot detenido por usuario (Ctrl+C)

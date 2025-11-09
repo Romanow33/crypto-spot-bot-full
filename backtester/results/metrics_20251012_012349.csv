@@ -1,0 +1,2 @@
+initial_capital,final_capital,total_return,total_return_pct,total_trades,buy_signals,sell_signals,completed_trades,win_rate,winners,losers,avg_win_pct,avg_loss_pct,best_trade_pct,worst_trade_pct,profit_factor,max_drawdown_pct,sharpe_ratio,total_fees,avg_trade_duration
+1000.0,964.2456333890382,-3.5754366610961825,-3.5754366610961825,6214,3107,3107,3107,57.19343418088187,1777,1330,0.27985949105903307,-0.36737795316066735,2.4091552472917477,-6.195371653937504,0.6872207517589313,-3.5978197299270724,-0.42059351964957553,36.5854141732374,N/A
